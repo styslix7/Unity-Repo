@@ -10,6 +10,6 @@ Repo created by Baran Parkın for a project named "Solar System" in Unity Engine
 
 ## Installation
 
-Clone the repository by running the following command in your terminal by following the [License](https://github.com/styslix7/DGD203-BaranParkin/blob/main/License):
+Clone the repository by running the following command in your terminal by following the [License](https://github.com/styslix7/Unity-Repo/blob/main/License.md):
 ```bash
 git clone https://github.com/styslix7/Unity-Repo.git
