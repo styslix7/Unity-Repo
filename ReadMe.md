@@ -1,4 +1,4 @@
-# Unity-repo
+# Unity-Repo
 
 Repo created by Baran Parkın for a project named "Solar System" in Unity Engine.
 
